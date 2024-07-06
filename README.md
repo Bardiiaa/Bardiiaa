@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Bardiiaa
-- 🌱 I’m currently learning c++
+- I’m currently learning c++
+- and a little python
 
 <!---
 Bardiiaa/Bardiiaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
